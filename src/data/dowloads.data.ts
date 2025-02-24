@@ -1,0 +1,60 @@
+
+
+export const dowloads=[
+    {
+        id:1,
+        url:'',
+        name:'expressoeslogicas.pdf'
+    },
+    {
+        id:1,
+        url:'',
+        name:'expressoeslogicas.pdf'
+    },
+    {
+        id:1,
+        url:'',
+        name:'expressoeslogicas.pdf'
+    },
+    {
+        id:1,
+        url:'',
+        name:'expressoeslogicas.pdf'
+    },
+    {
+        id:1,
+        url:'',
+        name:'expressoeslogicas.pdf'
+    },
+    {
+        id:1,
+        url:'',
+        name:'expressoeslogicas.pdf'
+    },
+    {
+        id:1,
+        url:'',
+        name:'expressoeslogicas.pdf'
+    },
+    {
+        id:1,
+        url:'',
+        name:'expressoeslogicas.pdf'
+    },
+    {
+        id:1,
+        url:'',
+        name:'expressoeslogicas.pdf'
+    },
+    {
+        id:1,
+        url:'',
+        name:'expressoeslogicas.pdf'
+    },
+    {
+        id:1,
+        url:'',
+        name:'expressoeslogicas.pdf'
+    },
+    
+]

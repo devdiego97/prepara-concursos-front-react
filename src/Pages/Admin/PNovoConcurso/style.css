@@ -1,0 +1,16 @@
+.page{
+    margin:100px;
+}
+fieldset{
+    padding: 22px;
+}
+
+.select{
+   width: auto;
+}
+@media screen and (max-width:950px) {
+    .page{
+        margin: 100px 0;
+    }
+
+}
